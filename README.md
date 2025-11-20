@@ -1,7 +1,6 @@
-# OKE-ALT Nuxt Gemini (static demo)
+# OKE-ALT Nuxt Gemini_XRPL_Demo
 
-This repository reproduces the page at https://oke-alt-nuxt-gemini.vercel.app/
-
+This repository reproduces the page 
 ## Features
 - Minimal Nuxt 3 (ssr: false) single-page demo
 - Wallet status placeholder (GemWallet connect button)
