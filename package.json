@@ -1,0 +1,20 @@
+{
+  "name": "oke-alt-nuxt-gemini",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview",
+    "generate": "nuxi generate"
+  },
+  "devDependencies": {
+    "nuxt": "^3.14.0"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "xrpl": "^2.1.0"
+  }
+}
