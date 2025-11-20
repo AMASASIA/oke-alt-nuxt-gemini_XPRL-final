@@ -1,5 +1,5 @@
 # OKE-ALT Nuxt Gemini_XRPL_Demo
-
+https://okenftsys-m5a6x9ih.manus.space/
 This repository reproduces the page 
 ## Features
 - Minimal Nuxt 3 (ssr: false) single-page demo
